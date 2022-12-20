@@ -1,4 +1,4 @@
-# Scrape Google Lens
+# Connect djnago project with MongoDB
 This project conncet with MongoDB database using djongo
 
 
